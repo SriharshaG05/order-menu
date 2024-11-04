@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    padding: 50px 0;
+}
+
+.card {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.navbar-brand{
+    height: 50px;
+    width: 50px;
+}
